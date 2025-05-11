@@ -1,13 +1,12 @@
 # LLMSecurity
 
-LLMSecurity: A Cyber-Security Tool for Secure Operations
+LLMSecurity: Secure Your LLM Workflows
 
-LLMSecurity is a cyber-security tool designed to ensure secure operations. The protection features include:
+LLMSecurity is a dedicated cyber-security tool built to safeguard operations leveraging Large Language Models (LLMs). It proactively defends against common threats, including:
 
-- Prompt injection protection: safeguarding against both human and system-generated prompts
-- Agent (tools) injection protection: protecting against unauthorized tool injections
-- RAG (embedding-docs) injection protection: shielding against malicious embedding of documents
+- Prompt Injection Protection: Mitigates attacks where malicious prompts manipulate the LLM's behavior, originating from both human users and automated systems.
+- Agent Injection Protection: Prevents unauthorized tools and extensions from being injected into the LLM workflow.
+- RAG Injection Protection: Protects against the risky embedding of malicious documents within Retrieval-Augmented Generation (RAG) systems.
 
-
-Coming Soon...
+*Coming Soon...*
 
